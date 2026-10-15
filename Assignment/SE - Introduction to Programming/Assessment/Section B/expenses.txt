@@ -1,0 +1,2 @@
+Food & Dining,450.00
+Transportation,120.50
